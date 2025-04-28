@@ -37,11 +37,7 @@ https://github.com/user-attachments/assets/13406fa1-ccfd-4796-bc9e-5c6754211840
 - **Description**: Jetpack Compose is a modern, fully declarative UI toolkit for Android, designed to simplify UI development. It allows for building UIs using Kotlin code without the need for XML layouts.
 - **Why Used**: Jetpack Compose enables us to create dynamic, responsive UIs with less boilerplate code. It integrates seamlessly with Kotlin, enhancing productivity and scalability.
 
-### 3. **ActivityResultContracts**
-- **Description**: ActivityResultContracts is a part of Android's ActivityResult API, which simplifies managing activity result contracts like permissions, camera access, or file selections.
-- **Why Used**: The app uses `ActivityResultContracts` to handle permissions and requests, making the code cleaner and easier to manage. It replaces the older `onActivityResult` approach and is more intuitive.
-
-### 4. **Material3**
+### 3. **Material3**
 - **Description**: Material3 is the latest version of Google's Material Design UI system for Android, which provides components, themes, and styles for building aesthetically pleasing and consistent UIs.
 - **Why Used**: Material3 gives the app a modern, polished look, improving the user experience with its rich set of UI components such as buttons, dialogs, text fields, and more.
 
