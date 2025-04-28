@@ -1,11 +1,9 @@
 # Task: Image Insertion and Manipulation in a Drawing App
 
-## Objective
-The goal of this task is to evaluate the candidate's ability to:
-- Integrate `SurfaceView` within Jetpack Compose.
-- Handle bitmap operations, including loading, scaling, and drawing.
-- Implement image manipulation (pan, zoom, rotate).
-- Manage drawing operations on a separate thread.
+
+https://github.com/user-attachments/assets/13406fa1-ccfd-4796-bc9e-5c6754211840
+
+
 
 ## Task Requirements
 
